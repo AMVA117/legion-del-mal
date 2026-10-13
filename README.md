@@ -64,6 +64,14 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 - 🔴 En planificación
 - 🔴 En desarrollo
 
+
+<details>
+  <summary>Aprendices SENA</summary>
+
+  Ficha 3387753, Ficha 3071104
+
+</details>
+
 ---
 
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
